@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gbXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" temperatureUnit="F" lengthUnit="Feet" areaUnit="SqaereKilometers" volumeUnit="CubicKilometers" version="0.35" xmlns="http://www.gbxml.org/schema" >
+  <Campus id="cmps-1">
+    <Location>
+      <Name>San Francisco, CA</Name>
+      <Latitude>37.795</Latitude>
+      <Longitude>-122.394</Longitude>
+      <CADModelAzimuth>0</CADModelAzimuth>
+    </Location>
+    <Building id="bldg-1" buildingType="DiningBarLoungeOrLeisure">
+      <Area>2000</Area>
+      <BuildingStorey id="bldg-story-1">
+        <Name>Level 1</Name>
+        <Level>0</Level>
+        <PlanarGeometry>
+          <PolyLoop>
+            <CartesianPoint>
+              <Coordinate>-999.000000</Coordinate>
+              <Coordinate>-999.000000</Coordinate>
+              <Coordinate>-999.000000</Coordinate>
+            </CartesianPoint>
+            <CartesianPoint>
+              <Coordinate>-999.000000</Coordinate>
+              <Coordinate>-999.000000</Coordinate>
+              <Coordinate>-999.000000</Coordinate>
+            </CartesianPoint>
+            <CartesianPoint>
+              <Coordinate>-999.000000</Coordinate>
+              <Coordinate>-999.000000</Coordinate>
+              <Coordinate>-999.000000</Coordinate>
+            </CartesianPoint>
+            <CartesianPoint>
+              <Coordinate>-999.000000</Coordinate>
+              <Coordinate>-999.000000</Coordinate>
+              <Coordinate>-999.000000</Coordinate>
+            </CartesianPoint>
+            <CartesianPoint>
+              <Coordinate>-999.000000</Coordinate>
+              <Coordinate>-999.000000</Coordinate>
+              <Coordinate>-999.000000</Coordinate>
+            </CartesianPoint>
+          </PolyLoop>
+        </PlanarGeometry>
+      </BuildingStorey>
+    </Building>
+  </Campus>
+</gbXML>
